@@ -4,7 +4,14 @@
 ## 2.1.0 ??? (unreleased)
 
 ### Features
-- ...
+- Webhooks: Improve webhook data:
+    - add permalinks
+    - owner, assigned_to, status, type, priority, severity, user_story, milestone, project are objects
+    - add role to 'points' object
+    - add the owner to every notification ('by' field)
+    - add the date of the notification ('date' field)
+    - show human diffs in 'changes'
+    - remove unnecessary data
 
 ### Misc
 - Lots of small and not so small bugfixes.
