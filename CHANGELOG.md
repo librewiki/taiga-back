@@ -4,7 +4,9 @@
 ## 2.1.0 ??? (unreleased)
 
 ### Features
-- ...
+- CSV Reports:
+    - Change field name: 'milestone' to 'sprint'
+    - Add new fields: 'sprint_estimated_start' and 'sprint_estimated_end'
 
 ### Misc
 - Lots of small and not so small bugfixes.
