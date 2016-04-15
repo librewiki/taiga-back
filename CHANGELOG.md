@@ -7,6 +7,7 @@
 - ...
 
 ### Misc
+- [API] projects resource: Random order if `discover_mode=true` and `is_featured=true`.
 - Lots of small and not so small bugfixes.
 
 
